@@ -10,7 +10,7 @@
 		<title>Pending Registrations</title>
 		<link rel="stylesheet" type="text/css" href="../css/global_styles.css">
 		<link rel="stylesheet" type="text/css" href="../css/custom_checkbox_style.css">
-		<!--link rel="stylesheet" type="text/css" href="css/pending_registrations_style.css"-->
+		<link rel="stylesheet" type="text/css" href="css/pending_registrations_style.css">
 	</head>
 	<body>
 		<?php
