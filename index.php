@@ -13,7 +13,7 @@
 <html>
 	<head>
 		<title>Library</title>
-		<!--link rel="stylesheet" type="text/css" href="css/index_style.css" /-->
+		<link rel="stylesheet" type="text/css" href="css/index_style.css">
 	</head>
 	<body>
 		<div id="allTheThings">
