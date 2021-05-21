@@ -10,7 +10,7 @@
 		<title>Add book</title>
 		<link rel="stylesheet" type="text/css" href="../css/global_styles.css" />
 		<link rel="stylesheet" type="text/css" href="../css/form_styles.css" />
-		<!--link rel="stylesheet" href="css/insert_book_style.css"-->
+		<link rel="stylesheet" href="css/insert_book_style.css">
 	</head>
 	<body>
 		<form class="cd-form" method="POST" action="#">
